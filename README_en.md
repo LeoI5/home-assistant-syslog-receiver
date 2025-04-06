@@ -5,6 +5,8 @@
 [![Version](https://img.shields.io/github/v/release/leoi5/home-assistant-syslog-receiver?style=flat-square)](https://github.com/leoi5/home-assistant-syslog-receiver/releases)
 [![License](https://img.shields.io/github/license/leoi5/home-assistant-syslog-receiver?style=flat-square)](LICENSE)
 
+[English version](README_en.md)
+
 **Syslog Receiver** is a Home Assistant integration that allows you to receive and filter **Syslog messages** over UDP, and trigger automations based on the received messages.
 
 ---
