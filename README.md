@@ -4,7 +4,7 @@
 [![HACS Badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=flat-square)](https://hacs.xyz/)
 [![Version](https://img.shields.io/github/v/release/leoi5/home-assistant-syslog-receiver?style=flat-square)](https://github.com/leoi5/home-assistant-syslog-receiver/releases)
 [![License](https://img.shields.io/github/license/leoi5/home-assistant-syslog-receiver?style=flat-square)](LICENSE)
-
+[English version](README_en.md)
 **Syslog Receiver** интеграция для Home Assistant, которая позволяет получать и фильтровать **Syslog-сообщения** по UDP, а также запускать автоматизации на основе полученных сообщений.
 
 ---
