@@ -66,7 +66,7 @@ automation:
     condition:
       - condition: template
         value_template: >
-          "error" in trigger.event.data.message | lower
+          {{"error" in trigger.event.data.message | lower}}
     action:
       - service: notify.notify
         data:
